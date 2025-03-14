@@ -16,17 +16,14 @@ input{
 td{
     background-color: rgb(167, 80, 99);
     padding: 0%;
-    width: 30%;
+    width: 15vw;
     height: 12vh;
     box-shadow: 5px 5px 10px gray;
     margin: 2%;
     border-radius: 10px;
     flex-grow: 1;
 }
-tr{
-    
-    flex-basis: 20%;
-}
+
 #display{
     background-color: rgb(61, 48, 48);
     
